@@ -8,7 +8,7 @@ export const navbarLinks = [
         title: "Dashboard",
         links: [
             {
-                label: "Blog",
+                label: "Blogs",
                 icon: Home,
                 path: "/blogfront",
             },
@@ -17,7 +17,7 @@ export const navbarLinks = [
                 icon: ChartColumn,
                 path: "/servicesfront",
             },
-            
+
             {
                 label: "Client reviews",
                 icon: NotepadText,
@@ -35,9 +35,7 @@ export const navbarLinks = [
             },
         ],
     },
-,
-
-
+    ,
     {
         title: "Settings",
         links: [
